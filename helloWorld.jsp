@@ -18,6 +18,6 @@
     </tr>
   </table>
 
-	<%="Hello World! This is version 2.2."%>
+	<%="Hello World! This is version 2.3."%>
 </body>
 </html>
