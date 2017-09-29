@@ -18,6 +18,6 @@
     </tr>
   </table>
 
-	<%="Hello World! Last updated: 2017-08-01 10:15."%>
+	<%="Hello World! Last updated: 2017-09-29 10:15."%>
 </body>
 </html>
